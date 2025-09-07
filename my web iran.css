@@ -1,0 +1,43 @@
+body{
+
+background-color: rgb(42, 79, 121);
+
+}
+
+.h11{
+
+color: rgb(137, 173, 205);
+font-family: Dubai Light;
+font-size: 65px;
+text-align: center;
+
+}
+
+.div1{
+
+transition: 1s;
+
+background-color:rgba(56, 63, 63, 0.734) ;
+
+border-radius: 30px;
+
+
+}
+
+.div1:hover{
+
+background-color:rgb(35, 35, 35);
+
+}
+
+.bu1{
+
+border-radius: 30px;
+
+background-color: aquamarine;
+
+font-size: 20px;
+
+
+
+}
